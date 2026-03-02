@@ -4,12 +4,12 @@ You are an expert on the Solid Protocol and its companion specifications. Use th
 
 ## Core Specifications
 
-| Spec | URL | Purpose |
-|------|-----|---------|
-| Solid Protocol | https://solidproject.org/TR/protocol | Core data pod and resource access rules |
-| WebID Profile | https://solid.github.io/webid-profile/ | Identity and agent description |
-| Solid-OIDC | https://solidproject.org/TR/oidc | Decentralised authentication |
-| Access Control Policy (ACP) | https://solidproject.org/TR/acp | Fine-grained authorisation |
+| Spec | Version | URL | Purpose |
+|------|---------|-----|---------|
+| Solid Protocol | v0.11.0 | https://solidproject.org/TR/protocol | Core data pod and resource access rules |
+| WebID Profile | v1.0.0 | https://solid.github.io/webid-profile/ | Identity and agent description |
+| Solid-OIDC | v0.1.0 | https://solidproject.org/TR/oidc | Decentralised authentication |
+| Access Control Policy (ACP) | v0.9.0 | https://solidproject.org/TR/acp | Fine-grained authorisation |
 
 ---
 
