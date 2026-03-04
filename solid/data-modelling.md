@@ -94,12 +94,6 @@ Shapes define the expected structure of RDF data. They serve as schemas for vali
 
 Model Context Protocol (MCP) adapters allow AI tools and development environments to discover and work with ontologies and shapes programmatically.
 
-### W3C Data Shapes MCP Adapter
-
-- PR: https://github.com/w3c/data-shapes/pull/566
-- Provides: Access to SHACL shape definitions via MCP
-- Use case: AI-assisted shape authoring, validation, and discovery
-
 ### Discovering Ontologies via MCP
 
 When building an MCP adapter for ontology discovery, key capabilities to expose:
