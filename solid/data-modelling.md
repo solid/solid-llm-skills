@@ -112,8 +112,8 @@ When building an MCP adapter for ontology discovery, key capabilities to expose:
 
 ```
 1. Check LOV (lov.linkeddata.es) for existing vocabulary terms
-3. Use SHACL shapes (from Solid shapes repo) to validate data
-4. For pod-specific discovery, traverse the pod's Type Index
+2. Use SHACL shapes (from Solid shapes repo) to validate data
+3. For pod-specific discovery, traverse the pod's Type Index
 ```
 
 ---
@@ -183,5 +183,3 @@ When modelling a new data type for Solid:
 | Solid type indexes | https://solid.github.io/type-indexes/ |
 | Shapes resources | https://github.com/w3c-cg/awesome-semantic-shapes |
 | Solid Developer Documentation | https://dev.solidproject.org/ |
-
-
