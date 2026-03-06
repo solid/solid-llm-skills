@@ -87,7 +87,26 @@ Shapes define the expected structure of RDF data. They serve as schemas for vali
 ### SHACL Shape Discovery
 
 
+A number of **public SHACL shapes collections and published shapes** are available that you can reuse or study:
 
+- **[Solid Shapes Catalogue](https://github.com/solid/shapes)**  
+  Provides reusable SHACL shapes used in Solid ecosystem applications.
+
+- **[W3C Data Shapes Working Group Resources](https://github.com/w3c/data-shapes)**  
+  Official working group repository containing specifications, examples, and discussion materials related to RDF data shapes.
+
+- **[Awesome Semantic Shapes Curated List](https://github.com/w3c-cg/awesome-semantic-shapes)**  
+  Broad index of SHACL and ShEx shape resources across domains and vocabularies.
+
+- **Shapes-of-You Semantic Index**  
+  A public index of semantic web resources that helps researchers discover linked data artefacts including SHACL shapes, ontologies, mappings, and SPARQL assets.  
+  https://index.semanticscience.org/
+
+- **[SHACL Play! Shapes Catalog (SKOS & vocab constraint shapes)](https://shacl-play.sparna.fr/play/shapes-catalog)**  
+  Provides ready-to-use SKOS validation shapes implementing many SKOS integrity constraints.
+
+- **[SEMICeu DCAT-AP SHACL Shapes](https://github.com/SEMICeu/dcat-ap_shacl/blob/master/README.md)**  
+  Repository containing SHACL shapes for the DCAT-AP data catalogue application profile.
 ---
 
 ## MCP Adapters for Ontology Discovery
@@ -111,10 +130,6 @@ When building an MCP adapter for ontology discovery, key capabilities to expose:
 ```
 
 ---
-
-## Solid Type Index Pattern
-
-The Solid Type Index is the standard Solid mechanism for linking RDF types to storage locations in a pod.
 
 ### Structure
 
