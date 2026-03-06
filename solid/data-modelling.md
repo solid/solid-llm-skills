@@ -171,6 +171,7 @@ When modelling a new data type for Solid:
 
 | Resource | URL |
 |----------|-----|
+| FAIR Principles | https://www.go-fair.org/fair-principles/ |
 | Linked Open Vocabularies | https://lov.linkeddata.es/ |
 | W3C SHACL Spec | https://www.w3.org/TR/shacl/ |
 | W3C Data Shapes repo | https://github.com/w3c/data-shapes |
