@@ -11,7 +11,7 @@ Skills specific to the Solid platform and its specifications.
 | [spec.md](solid/spec.md) | Solid Protocol, WebID Profile, Solid-OIDC, and ACP specifications |
 | [servers.md](solid/servers.md) | Community Solid Server, Pivot, public servers, Docker, and CLI |
 | [style-guide.md](solid/style-guide.md) | Logo, brand colours (#7C4DFF), and usage rules |
-| [data-modelling.md](solid/data-modelling.md) | Vocabularies, ShEx/SHACL, type indexes, and MCP adapters |
+| [data-modelling.md](solid/data-modelling.md) | Vocabularies, SHACL |
 | [integration-guide.md](solid/integration-guide.md) | @inrupt/solid-client, solid-client-authn, LDO, N3.js, and Bashlib |
 
 ## Engineering Skills
