@@ -307,3 +307,9 @@ Access mode is granted **if and only if**:
 - ACP: https://solidproject.org/TR/acp
 - Solid Notifications: https://solidproject.org/TR/notifications-protocol
 - Web Access Control: https://solidproject.org/TR/wac
+
+---
+
+## Other awesome skills
+
+For more Claude/LLM skills (document processing, dev tools, automation, MCP, etc.), see [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills).
