@@ -1,8 +1,8 @@
 Spec documents
-1. solid protocol - https://solidproject.org/TR/protocol
-2. https://solid.github.io/webid-profile/
-3. https://solidproject.org/TR/oidc
-4. https://solidproject.org/TR/acp
+1. Solid Protocol v0.11.0 - https://solidproject.org/TR/protocol
+2. Solid WebID Profile v1.0.0 - https://solid.github.io/webid-profile/
+3. Solid OIDC v0.1.0 - https://solidproject.org/TR/oidc
+4. Access Control Policy v0.9.0 - https://solidproject.org/TR/acp
 5. https://communitysolidserver.github.io/CommunitySolidServer/latest/ - original CSS
 6. https://github.com/solid-contrib/pivot - Pivot CSS
 7. https://www.inrupt.com/blog/conformance-test-suite
