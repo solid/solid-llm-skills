@@ -13,6 +13,7 @@ Skills specific to the Solid platform and its specifications.
 | [style-guide.md](solid/style-guide.md) | Logo, brand colours (#7C4DFF), and usage rules |
 | [data-modelling.md](solid/data-modelling.md) | Vocabularies, SHACL |
 | [integration-guide.md](solid/integration-guide.md) | @inrupt/solid-client, @inrupt/solid-client-authn, and N3.js |
+| [solid-conformance-engineer.md](solid/solid-conformance-engineer.md) | Conformance Test Harness setup, EARL reports, WAC/ACP/Protocol tests |
 
 ## Engineering Skills
 
@@ -34,7 +35,6 @@ General-purpose engineering skill files covering a range of disciplines.
 | [project-manager.md](engineering/project-manager.md) | Agile, Scrum, Waterfall, Jira, Notion, Trello, SRS, PRD |
 | [qa-engineer.md](engineering/qa-engineer.md) | QA process, defect management, UAT, release gates |
 | [release-engineer.md](engineering/release-engineer.md) | Pre/post-deployment, rollback, blue-green, canary, Terraform, GitHub Actions |
-| [solid-conformance-engineer.md](engineering/solid-conformance-engineer.md) | Conformance Test Harness setup, EARL reports, WAC/ACP/Protocol tests |
 
 ## Other Awesome Skill Lists
 

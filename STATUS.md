@@ -4,8 +4,8 @@
 
 | Folder | Files Done | Total | Status |
 |--------|-----------|-------|--------|
-| solid/ | 5 | 5 | ✅ Complete |
-| engineering/ | 15 | 15 | ✅ Complete |
+| solid/ | 6 | 6 | ✅ Complete |
+| engineering/ | 14 | 14 | ✅ Complete |
 | **Total** | **20** | **20** | **100%** |
 
 ---
@@ -19,6 +19,7 @@
 | solid/style-guide.md | Logo, brand colours (#7C4DFF), usage rules | ✅ Done |
 | solid/data-modelling.md | FAIR, vocabularies, ShEx/SHACL, type index, MCP adapters | ✅ Done |
 | solid/integration-guide.md | @inrupt/solid-client, solid-client-authn, LDO, N3.js, Bashlib getPodRoot | ✅ Done |
+| solid/solid-conformance-engineer.md | CTH setup, EARL reports, WAC/ACP/Protocol tests, CI integration | ✅ Done |
 
 ---
 
@@ -40,7 +41,6 @@
 | engineering/project-manager.md | Full Stack Project Manager | Agile, Scrum, Waterfall, Jira, Notion, Trello, SRS, PRD, resource management | ✅ Done |
 | engineering/qa-engineer.md | Full Stack QA Engineer | QA process, defect management, UAT, release gates; refs performance/testing | ✅ Done |
 | engineering/release-engineer.md | Full Stack Release Engineer | Pre/post-deployment, rollback, blue-green, canary, Terraform, GitHub Actions, CloudFormation | ✅ Done |
-| engineering/solid-conformance-engineer.md | Solid Conformance Harness Test Engineer | CTH setup, EARL reports, WAC/ACP/Protocol tests, CI integration | ✅ Done |
 
 ---
 
