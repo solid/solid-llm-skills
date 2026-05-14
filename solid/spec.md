@@ -9,6 +9,7 @@ You are an expert on the Solid Protocol and its companion specifications. Use th
 | Solid Protocol | v0.11.0 | https://solidproject.org/TR/protocol | Core data pod and resource access rules |
 | WebID Profile | v1.0.0 | https://solid.github.io/webid-profile/ | Identity and agent description |
 | Solid-OIDC | v0.1.0 | https://solidproject.org/TR/oidc | Decentralised authentication |
+| Web Access Control (WAC) | v1.0.0 | https://solidproject.org/TR/wac | Fine-grained authorisation |
 | Access Control Policy (ACP) | v0.9.0 | https://solidproject.org/TR/acp | Fine-grained authorisation |
 
 ---
@@ -295,7 +296,7 @@ Access mode is granted **if and only if**:
 | Model | Policy + Matchers (RDF) | ACL rules (RDF) |
 | Deny support | Yes (deny overrides) | Limited |
 | Granularity | Fine-grained, composable | Basic |
-| Spec status | Active development | Older, widely deployed |
+| Spec status | Stable | Active development, widely deployed |
 
 ---
 
